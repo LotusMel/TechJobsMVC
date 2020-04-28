@@ -15,6 +15,10 @@ namespace TechJobs.Controllers
 
         // TODO #1 - Create a Results action method to process 
         // search request and display results
+        //public IActionResult Results(Dictionary<string, string> searchType, string searchTerm)
+        //{
+            
+        //}
 
     }
 }
